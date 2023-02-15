@@ -68,14 +68,14 @@ section.imagem > p {
    padding: 10px;
 }
 #joaninha {
-   background-image: url(imagens/background001.jpg);
+   background-image: url(../imagens/background001.jpg);
    background-position: right center;
    background-repeat: no-repeat;
    background-size: cover;
    background-attachment: fixed;
 }
 #flores {
-   background-image: url(imagens/background002.jpg);
+   background-image: url(../imagens/background002.jpg);
    background-position: right center;
    background-repeat: no-repeat;
    background-size: cover;
